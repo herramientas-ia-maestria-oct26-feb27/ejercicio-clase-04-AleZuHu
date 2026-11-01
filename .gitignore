@@ -1,2 +1,6 @@
 # Jupyter Notebook
 .ipynb_checkpoints/
+forkenv/
+env/
+.cache/
+__pycache__/
